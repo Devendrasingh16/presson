@@ -1,0 +1,230 @@
+.girl{
+    padding-left: 175px;
+    margin-top: 135px;
+}
+.soci{
+    padding-left: 635px;
+    letter-spacing: 10px;
+    font-size: 34px;
+    background-color: rgb(234,234,234);
+}
+.pera{
+    font-size: 6rem;
+    transform: translate(-365px, 190px);
+    font-family: 'Krona One',sans-serif;
+    font-weight: 400;
+}
+.pera1-ab{
+    font-size: 6rem;
+    transform: translate(-355px, 190px);
+    font-family: 'Krona One',sans-serif;
+    font-weight: 400;
+}
+.container-ab{
+    display: flex;
+    background-color: rgb(234,234,234);
+    height: 900px;
+}
+.sim{
+    transform: translate(-590px, 72px);
+}
+.container-fluid1{
+    background-color:rgb(43, 44, 50);
+    color: white;
+    height: 500px;
+    padding-top: 100px;
+    
+}
+.well{display: flex;}
+.petaa{
+    display: flex;
+    font-size: 12px;
+    width: 675px;
+}
+.petab{
+    display: flex;
+    font-size: 12px;
+    width: 650px;
+ 
+}
+.pet{
+    font-size: 3.25rem;
+    width: 50%;
+    text-align: center;
+    font-family: 'Krona One',sans-serif;
+
+}
+.pet1{
+    font-size: 3.5rem;
+    width: 50%;
+    text-align: center;
+    font-family: 'Krona One',sans-serif;
+
+}
+.come{
+    display: flex;
+    padding-top: 40px;
+}
+.one{
+    margin-left: 120px;
+    margin-top: -10px;
+}
+
+.oneen{
+    padding-left: 15px;
+    width: 350px;
+}
+.two{
+    margin-left: 120px;
+    margin-top: -10px;
+}
+
+.twowt{
+    padding-left: 15px;
+    width: 350px;
+}
+.container14-ab{
+    display: flex;
+    margin-top: 50px;
+    height: 1150px;
+    width: 1300px;
+    background-color: white;
+    
+}
+
+.row-ab{
+    width: 60%;
+    height: 1100px;
+    
+}
+.fun-ab{
+    display: grid;
+    height: 500px;
+    text-align: center;
+    margin-top: 120px;
+    padding-left: 10px;
+    
+}
+.content-ab{
+    padding-left: 50px;
+    width: 550px;
+    height: 315px;
+
+}
+.gun-ab{
+    font-size: 2.5rem;
+    font-family: 'Krona One',sans-serif;
+}
+.rib-ab{
+     color: black;
+}
+.container16-ab{
+    display: flex;
+}
+.europe-ab{
+    width: 50%;
+}
+.africa-ab{
+    width: 35%;   
+    opacity: 0.7; 
+}
+.usa-ab{
+    font-family: 'Krona One',sans-serif;
+    margin-left: 150px;
+    font-size: 3rem;
+}
+.usa-ab0{
+    font-family: 'Krona One',sans-serif;
+    margin-left: 150px;
+    font-size: 3rem;
+    margin-top: -18px;
+}
+.uk-ab{
+    width: 250px;
+    margin-left: 150px;
+    opacity: 0.7;
+}
+.battan-ab{
+    
+    padding-left: 360px;
+    margin-top: 40px;
+}
+.idol{
+    font-size: 24px;
+}
+.container17-ab{
+    display: flex;
+    background-color: black;
+    color: white;
+    height: 450px;
+}
+.abd-ab{
+    width: 33%;
+    text-align: center;
+    color: white;
+    margin-top: 80px;
+}
+.vk-ab{
+    width: 33%;
+    text-align: center;
+    margin-top: 80px;
+}
+.add-ab{
+    width: 33%;
+    text-align: center;
+    margin-top: 80px;
+    font-size: 12px;
+}
+.sam-ab{
+    display: flex;
+}
+.container0{
+    width: 100%;
+    height: 60px;
+    background-color: rgb(234,234,234);
+    
+}
+.jack{
+    padding-left: 750px;
+    text-align: center;
+    margin-top: -30px;
+}
+
+.logo{
+    padding-left: 80px;
+    align-items: center;
+}
+nav {
+    height: 100px;
+}
+    
+nav ul li{
+    display: inline-block;
+}
+nav ul li a{
+    color: black;
+    display: block;
+    padding: 0 15px;
+    font-size: 15px;
+}    
+nav ul ul{
+    position: absolute;
+    visibility: hidden;
+    padding-left: 0rem;
+}
+.jack ul li:hover > ul{
+    top: 10px;
+    opacity: 1;
+    visibility: visible;
+   
+}
+.jack ul ul li{
+    width: 100px;
+    display:flex;
+    position: relative;
+    padding-left: 0rem;
+    margin-top: 28px;
+}
+.jack ul li a{
+    text-decoration: none;
+}

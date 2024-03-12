@@ -1,0 +1,186 @@
+.container-fluid-con{
+    background-color: rgb(234,234,234);
+    height: 720px;
+}
+.name-con{
+    display: flex;
+}
+.one-con{
+    padding-left: 580px;
+    width: 500px;
+    margin-top: 150px;
+}
+.two-con{
+    font-size: 6.5rem;
+    font-family: 'Krona One',sans-serif;
+    margin-top: 190px;
+    margin-left: -450px;
+}
+.sym-con{
+    
+    margin-top: 200px;
+    padding-left: 90px;
+    
+    
+}
+
+
+
+.text1-con{
+    font-size: 6rem;
+    font-family: 'Krona One',sans-serif;
+    padding-left: 167px;
+}
+.con-h-i{
+    margin-top: 15px;
+    margin-left: 80px;
+}
+.con-h{
+    display: flex;
+    margin-top: 300px;
+}
+.container1-con{
+    display: flex;
+}
+.ba-con{
+    margin-left: -500px;
+}
+.ca-con{
+    display: flex;
+    margin-top: -100px;
+}
+.ca1-con{
+    font-family: 'Krona One',sans-serif;
+}
+.ca10-con{
+    font-size: 14px;
+    opacity: 0.7;
+}
+.ca2-con{
+    font-family: 'Krona One',sans-serif;
+    padding-left: 25px;
+}
+.con-pera{
+    padding-left: 25px;
+    font-size: 14px;
+    opacity: 0.7;
+}
+.con-abhay{
+    margin-left: 150px;
+}
+
+.container16{
+    display: flex;
+    background-color: rgb(217, 223, 229);
+    height: 700px;
+}
+.europe{
+    width: 50%;
+}
+.africa{
+    width: 35%;
+    margin-top: 100px;
+    opacity: 0.7;
+    
+}
+
+.battan{
+    margin-left: 370px;
+    margin-top: 40px;
+    opacity: 1;
+}
+.idol{
+    font-size: 24px;
+}
+.usa{
+    text-align: center;
+    margin-top: 100px;
+    font-family: 'Krona One',sans-serif;
+    font-size: 2.75rem;
+    width: 350px;
+    margin-left: 150px;
+}
+.uk{
+    width: 300px;
+    margin-top: 30px;
+    margin-left: 175px;
+    font-size: 14px;
+    opacity: 0.7;
+}
+.container17{
+    display: flex;
+    background-color: black;
+    color: white;
+    height: 350px;
+}
+.abd{
+    width: 33%;
+    text-align: center;
+    color: white;
+    margin-top: 80px;
+}
+.vk{
+    width: 33%;
+    text-align: center;
+    margin-top: 80px;
+    opacity: 0.7;
+}
+.add{
+    width: 33%;
+    text-align: center;
+    margin-top: 80px;
+    font-size: 12px;
+    opacity: 0.7;
+}
+.sam-con{
+    display: flex;
+}
+.container0-con{
+    height: 60px;
+    background-color: rgb(234, 234, 234);
+}
+.jack-con{
+    padding-left: 750px;
+    text-align: center;
+    margin-top: -30px;
+}
+
+.logo-con{
+    padding-left: 80px;
+    margin-top: 10px;
+}
+
+    
+nav ul li{
+    display: inline-block;
+}
+nav ul li a{
+    color: black;
+    display: block;
+    padding: 0 15px;
+    font-size: 15px;
+}    
+nav ul ul{
+    position: absolute;
+    visibility: hidden;
+    padding-left: 0rem;
+}
+.jack-con ul li:hover > ul{
+    width: 200px;
+    background-color: rgb(217, 223, 229);
+    opacity: 1;
+    visibility: visible;
+   
+}
+.jack-con ul ul li{
+    width: 200px;
+    display:flex;
+    position: relative;
+    padding-left: 0rem;
+}
+.jack-con ul li a{
+    text-decoration: none;
+}
+.jack-con ul li a ul {
+    display: grid;
+}
